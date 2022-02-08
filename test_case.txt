@@ -1,0 +1,14 @@
+test case :   [ [1, 1, 1], [0, 1, 2], [0, 2, 2] ]
+Output : 1
+
+test case :   [ [1, 1, 2], [0, 1, 2], [1, 2, 2] ]
+Output : 2
+
+test case :   [ [1, 2, 0], [0, 0, 0], [0, 0, 0] ]
+Output : 1
+
+test case :   [ [1, 2, 0], [0, 0, 0], [0, 0, 0] ]
+Output : None
+
+test case :   [ [1, 2, 1], [2, 1, 2], [2, 1, 2] ]
+Output : Draw
